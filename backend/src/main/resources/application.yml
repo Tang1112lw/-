@@ -1,0 +1,24 @@
+server:
+  address: 127.0.0.1
+  port: 18080
+
+spring:
+  application:
+    name: CenterControl
+
+centercontrol:
+  # 用直播间直链，不要用 www.douyin.com/search/... 的搜索页。
+  room-url: "https://live.douyin.com/883039999098"
+  # 只支持真实浏览器桥接（CDP），不接受内置/独立浏览器模式。
+  browser-mode: cdp
+  cdp-url: http://127.0.0.1:9222
+  launch-if-missing: true
+  max-sessions: 1
+  auto-actions: true
+  data-dir: ${user.home}/.centercontrol
+  comment-poll-ms: 400
+  action-min-gap-ms: 8000
+  action-max-gap-ms: 18000
+  loop-min-interval-ms: 15000
+  loop-max-interval-ms: 60000
+  open-ui: true

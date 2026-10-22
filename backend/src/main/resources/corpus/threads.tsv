@@ -1,0 +1,800 @@
+c01|course|ask|零基础跟得上吗
+c01|chat|follow|我连软件都没装过
+c01|chat|share|第一节课从最基础讲吗
+c02|course|ask|课上会带着做一遍吗
+c02|chat|follow|我看录播喜欢跟着做
+c02|chat|share|一节课能做完一个作品吗
+c03|course|ask|学完能自己做出作品吗
+c03|chat|follow|我怕学完还是不会动手
+c03|chat|share|大概能做出啥水平
+c04|course|ask|课程多少钱，学生有优惠吗
+c04|chat|follow|我是学生，预算不多
+c04|chat|share|学生优惠要验证吗
+c05|course|ask|直播课错过了咋办
+c05|chat|follow|我经常赶不上直播
+c05|chat|share|回放啥时候能看
+c06|course|ask|老师会点评作业吗
+c06|chat|follow|我做完了没人看就容易放弃
+c06|chat|share|点评一般多久给
+c07|course|ask|这个课和免费教程差在哪
+c07|chat|follow|免费教程看了一堆还是零散
+c07|chat|share|课里有系统练习吗
+c08|course|ask|学 AI 要先学编程吗
+c08|chat|follow|我完全不会写代码
+c08|chat|share|不会编程能跟上吗
+c09|course|ask|学完能接单吗
+c09|chat|follow|我想学完接点小单
+c09|chat|share|第一单大概能做多大
+c10|course|ask|每天学多久合适
+c10|chat|follow|我每天只能挤出两小时
+c10|chat|share|两小时够用吗
+c11|course|ask|先学写作还是先学做图
+c11|chat|follow|我文字还行，做图完全不会
+c11|chat|share|一起学会不会乱
+c12|course|ask|这个课适合大四吗
+c12|chat|follow|我大四，时间被论文占了大半
+c12|chat|share|现在学来得及吗
+c13|course|ask|报名后从哪开始学
+c13|chat|follow|我怕报名后找不到入口
+c13|chat|share|有学习顺序说明吗
+c14|course|ask|课程会更新吗
+c14|chat|follow|工具一改版我怕课就过时
+c14|chat|share|更新要额外收费吗
+c15|course|ask|有试听吗
+c15|chat|follow|我想先听一节再决定
+c15|chat|share|试听是直播还是录播
+c16|course|ask|学完有证书吗
+c16|chat|follow|证书对找工作有用吗
+c16|chat|share|证书是机构自己发的吗
+c17|course|ask|课上讲哪个工具
+c17|chat|follow|我常用的工具和课上不一样
+c17|chat|share|能换成我熟悉的工具吗
+c18|course|ask|老师讲得快不快
+c18|chat|follow|我反应慢，怕跟不上
+c18|chat|share|讲快了能回放吗
+c19|course|ask|作业多不多
+c19|chat|follow|我怕作业太多做不完
+c19|chat|share|作业一般要花几个小时
+c20|course|ask|学完能帮实习提效吗
+c20|chat|follow|我在实习，天天做重复的活
+c20|chat|share|课里的方法能直接用吗
+c21|course|ask|有没有讲简历和面试的课
+c21|chat|follow|我最近在投简历
+c21|chat|share|简历课单独收费吗
+c22|course|ask|课程是直播还是录播
+c22|chat|follow|我更喜欢能反复看的录播
+c22|chat|share|录播也会更新吗
+c23|course|ask|学不会能退吗
+c23|chat|follow|我怕自己学不下去
+c23|chat|share|退款有时间限制吗
+c24|course|ask|这个课和学校开的课有啥不一样
+c24|chat|follow|学校那门课讲得太理论
+c24|chat|share|课里会讲实际操作吗
+c25|course|ask|学完能达到什么水平
+c25|chat|follow|我想知道能不能独立出片
+c25|chat|share|和自学半年比差多少
+c26|course|ask|课上的案例是真实的吗
+c26|chat|follow|我怕案例都是编的
+c26|chat|share|案例能跟着做一遍吗
+c27|course|ask|课后有问题在哪问
+c27|chat|follow|我怕问的问题太基础
+c27|chat|share|基础问题也有人答吗
+c28|course|ask|课件能下载吗
+c28|chat|follow|我喜欢打印出来看
+c28|chat|share|课件是 PDF 吗
+c29|course|ask|有学习路线图吗
+c29|chat|follow|我不知道先学哪块
+c29|chat|share|路线图能照着走吗
+c30|course|ask|这个课和别家比贵不贵
+c30|chat|follow|我对比了三家机构，差挺多
+c30|chat|share|贵是贵在服务吗
+c31|course|ask|有班级群吗
+c31|chat|follow|我想找同学一起学
+c31|chat|share|群里会布置作业吗
+c32|course|ask|一周要花几个小时
+c32|chat|follow|我一周最多腾出十小时
+c32|chat|share|十小时能跟上吗
+c33|course|ask|要会 Excel 才能学吗
+c33|chat|follow|我 Excel 只会填表
+c33|chat|share|不会 Excel 影响大吗
+c34|course|ask|学完能找到相关实习吗
+c34|chat|follow|我想靠学到的技能找实习
+c34|chat|share|实习看作品还是看证
+c35|course|ask|试听是完整一节吗
+c35|chat|follow|我怕试听只讲个开头
+c35|chat|share|试听能听到实操吗
+c36|course|ask|老师是行业里的吗
+c36|chat|follow|我想听真正做过项目的人讲
+c36|chat|share|老师会讲自己的项目吗
+c37|course|ask|工具改版课程会跟着改吗
+c37|chat|follow|工具一更新我就慌
+c37|chat|share|改版后旧课还能看吗
+c38|course|ask|作业是老师改还是助教改
+c38|chat|follow|我希望有人认真看我的作业
+c38|chat|share|助教也是行业里的吗
+c39|course|ask|可以先交定金吗
+c39|chat|follow|我一次性拿不出全款
+c39|chat|share|定金能退吗
+c40|course|ask|整个课学完要多久
+c40|chat|follow|我想两个月内学完
+c40|chat|share|两个月会不会太赶
+c41|course|ask|这个课是给上班族还是学生的
+c41|chat|follow|我是学生，时间是碎片
+c41|chat|share|学生跟不上进度吗
+c42|course|ask|学完真能用到工作里吗
+c42|chat|follow|我怕学完就忘
+c42|chat|share|课里讲工作里的实际流程吗
+h01|chat|share|第一次用 AI 写公众号，标题比我会起
+h01|chat|share|阅读量比平时高，部长还问我是不是熬夜写的
+h02|chat|share|室友用 AI 写论文被导师看出来了
+h02|chat|share|我现在只敢用 AI 改格式
+h02|chat|share|查重过了，答辩被问住也白搭
+h03|chat|share|我妈问我天天对着电脑干啥
+h03|chat|share|我说在用 AI 写作业，她让我别学坏
+h04|chat|share|用 AI 给社团写招新文案，报名的人多了
+h04|chat|share|部长问我是不是请了外援
+h05|chat|share|通勤路上让 AI 帮我改简历
+h05|chat|share|坐过站了，不过简历改得确实比我好
+h06|chat|share|用 AI 给男朋友写生日小作文
+h06|chat|share|男朋友看哭了，我没敢说是 AI 写的
+h07|chat|share|用 AI 写论文致谢，太煽情了
+h07|chat|share|我自己删了一半，留了两句真心的
+h08|chat|share|用 AI 做答辩 PPT，老师问这页谁做的
+h08|chat|share|我说我做的，心虚了一下午
+h09|chat|share|用 AI 写实习周报，姐姐说写得挺具体
+h09|chat|share|其实周报里我编了两条，下周得补回来
+h10|chat|share|用 AI 给室友的外卖店起名
+h10|chat|share|笑了一晚上，最后起的名字一个没用
+h11|chat|share|用 AI 写毕业朋友圈，点赞最多
+h11|chat|share|有点不好意思，毕竟不是我写的
+h12|chat|share|用 AI 整理实习笔记，比我自己记的全
+h12|chat|share|后悔没早点用，笔记白记了半本
+h13|chat|share|用 AI 写社团活动通知，没人看出来
+h13|chat|share|部长让我以后都写，我成专职了
+h14|chat|share|用 AI 写求职邮件，发了十封
+h14|chat|share|有公司回我了，不知道是不是巧合
+h15|chat|share|室友看见我改简历，说我作弊
+h15|chat|share|我说只是改措辞，室友不信
+h15|chat|share|后来她自己也偷偷用 AI 改
+h16|chat|share|用 AI 做课程笔记，重点全标出来了
+h16|chat|share|复习省事，就是 AI 老给我加戏
+h17|chat|share|用 AI 写开题报告，导师说逻辑不清
+h17|chat|share|还是得自己搭框架，AI 只会填内容
+h18|chat|share|用 AI 翻译文献，快是快
+h18|chat|share|专业词还得一个个查
+h19|chat|share|用 AI 写班会发言，念起来像领导
+h19|chat|share|同学笑场，我直接脱稿了
+h20|chat|share|用 AI 给论文起标题，太像营销号
+h20|chat|share|导师说重想，我憋了一晚上
+h21|chat|share|第一次让 AI 模拟面试，AI 问得比我还紧张
+h21|chat|share|AI 问的问题挺像真的，就是不会追问
+h22|chat|share|用 AI 改简历，改完自己都不认识自己
+h22|chat|share|面试官问了一句，我就知道坏了
+h23|chat|share|用 AI 修毕业照，把室友修得不像本人
+h23|chat|share|室友让我还原，我说原图更好看
+h24|chat|share|用 AI 想食堂攻略，AI 推荐了三公里外的店
+h24|chat|share|我跟 AI 说只要学校里的，AI 又给了三个窗口
+c43|course|ask|课程作业一般要花多久
+c43|chat|follow|我下班后只剩两小时
+c43|chat|share|作业能分几次做吗
+c44|course|ask|学完适合投什么岗位
+c44|chat|follow|我不知道该投哪个方向
+c44|chat|share|运营岗也需要这些技能吗
+c45|course|ask|老师有实际项目经验吗
+c45|chat|follow|我想听踩过坑的人讲
+c45|chat|share|老师做过商业项目吗
+c46|course|ask|课程有有效期吗
+c46|chat|follow|我怕过期了还没看完
+c46|chat|share|过期后还能续吗
+c47|course|ask|可以开发票吗
+c47|chat|follow|我要拿去公司报销
+c47|chat|share|开票需要什么信息
+c48|course|ask|同学大多是学生还是上班族
+c48|chat|follow|我想知道同学都是啥背景
+c48|chat|share|基础差的人多吗
+c49|course|ask|课后练习多吗
+c49|chat|follow|我希望练习多一点
+c49|chat|share|练习有参考答案吗
+c50|course|ask|有完整的课程目录吗
+c50|chat|follow|我想先看目录再决定
+c50|chat|share|目录能发我一份吗
+c51|course|ask|学完能接什么活
+c51|chat|follow|我想知道能接哪类单子
+c51|chat|share|单价大概什么水平
+c52|course|ask|课程和考研复习冲突吗
+c52|chat|follow|我边考研边想学点技能
+c52|chat|share|考研期间学这个现实吗
+c53|course|ask|上课要准备什么吗
+c53|chat|follow|我怕上课前手忙脚乱
+c53|chat|share|需要提前装软件吗
+c54|course|ask|手机上能看吗
+c54|chat|follow|我睡前躺床上想看
+c54|chat|share|手机上能跟着操作吗
+c55|course|ask|能倍速吗
+c55|chat|follow|我习惯一点二五倍
+c55|chat|share|倍速看会漏重点吗
+c56|course|ask|有字幕吗
+c56|chat|follow|我边听边记跟不上
+c56|chat|share|有文字稿会更方便
+c57|course|ask|直播买和官网一样吗
+c57|chat|follow|我怕直播间的链接有问题
+c57|chat|share|两边价格一样吗
+c58|course|ask|能分期吗
+c58|chat|follow|一次付清还是心疼
+c58|chat|share|分期有手续费吗
+c59|course|ask|老学员复训要钱吗
+c59|chat|follow|我上期听到一半就断了
+c59|chat|share|复训能听新内容吗
+c60|course|ask|有一对一吗
+c60|chat|follow|我进度慢怕跟不上
+c60|chat|share|一对一是怎么收费的
+c61|course|ask|助教回得快吗
+c61|chat|follow|我问题比较多，怕被嫌烦
+c61|chat|share|助教一般啥时候在线
+c62|course|ask|作业有截止时间吗
+c62|chat|follow|我怕拖到最后一天
+c62|chat|share|晚交会扣分吗
+c63|course|ask|落下的课能补吗
+c63|chat|follow|我出差多，经常落课
+c63|chat|share|回放能补进度吗
+c64|course|ask|难度是慢慢加吗
+c64|chat|follow|我基础差，怕一上来就难
+c64|chat|share|前面几节简单点吗
+c65|course|ask|只讲一个工具吗
+c65|chat|follow|工具学多了我怕记混
+c65|chat|share|一个工具能覆盖全流程吗
+c66|course|ask|还要自己充会员吗
+c66|chat|follow|课程费之外还有别的花销吗
+c66|chat|share|会员要充多久
+c67|course|ask|电脑差能学吗
+c67|chat|follow|我这台是四年前的轻薄本
+c67|chat|share|跑不动能先学理论吗
+c68|course|ask|Mac 能跟着做吗
+c68|chat|follow|教程大多是 Windows 界面
+c68|chat|share|Mac 上有替代按钮吗
+c69|course|ask|英文界面看不懂咋办
+c69|chat|follow|我英语一般，怕卡在菜单
+c69|chat|share|有中文对照吗
+c70|course|ask|新手能接到单吗
+c70|chat|follow|我想知道新手能不能接到
+c70|chat|share|接单要准备作品集吗
+c71|course|ask|学完能自己做号吗
+c71|chat|follow|我想边学边发作品
+c71|chat|share|起号要注意什么
+c72|course|ask|上班的每天一小时够吗
+c72|chat|follow|我到家都快十点
+c72|chat|share|一小时能学多少
+c73|course|ask|大二学早不早
+c73|chat|follow|我大二，课还挺多
+c73|chat|share|早点学能早点接活吗
+c74|course|ask|考研党适合吗
+c74|chat|follow|我怕两头都耽误
+c74|chat|share|考完再学来得及吗
+c75|course|ask|宝妈能学吗
+c75|chat|follow|我孩子睡了才有整块时间
+c75|chat|share|碎片时间能学吗
+c76|course|ask|老师讲课是什么风格
+c76|chat|follow|我喜欢讲得细一点的
+c76|chat|share|老师会讲自己的经验吗
+c77|course|ask|有作业互评吗
+c77|chat|follow|看别人的作业能学到东西
+c77|chat|share|互评会公开吗
+c78|course|ask|教做作品集吗
+c78|chat|follow|我攒了几集作品不会整理
+c78|chat|share|作品集放几个作品
+c79|course|ask|教写简历吗
+c79|chat|follow|我想投新媒体岗
+c79|chat|share|简历课讲得细吗
+c80|course|ask|给推荐工作吗
+c80|chat|follow|我想知道推荐靠不靠谱
+c80|chat|share|推荐是岗位还是方向
+c81|course|ask|资料能商用吗
+c81|chat|follow|课件里的模板能拿去接单吗
+c81|chat|share|商用有没有限制
+c82|course|ask|回放能看多久
+c82|chat|follow|我怕学完回放就没了
+c82|chat|share|回放能下载吗
+c83|course|ask|要露脸吗
+c83|chat|follow|我不太想露脸
+c83|chat|share|只听不露脸可以吗
+c84|course|ask|一个班多少人
+c84|chat|follow|人太多我怕问不上
+c84|chat|share|小班大概多少人
+c85|course|ask|有学习搭子吗
+c85|chat|follow|一个人学容易断
+c85|chat|share|搭子怎么分配
+c86|course|ask|学完有证吗
+c86|chat|follow|证是官方认的吗
+c86|chat|share|证对面试有帮助吗
+c87|course|ask|讲限流吗
+c87|chat|follow|我号被限过一次
+c87|chat|share|限流原因能讲清楚吗
+c88|course|ask|教怎么报价吗
+c88|chat|follow|我怕报低了自己吃亏
+c88|chat|share|报价有参考区间吗
+c89|course|ask|讲怎么跟甲方聊吗
+c89|chat|follow|我最怕改稿改到崩溃
+c89|chat|share|甲方沟通有模板吗
+c90|course|ask|会拆爆款吗
+c90|chat|follow|我想知道别人为什么火
+c90|chat|share|拆解会讲方法吗
+c91|course|ask|有复盘模板吗
+c91|chat|follow|我做完就忘
+c91|chat|share|复盘要写多少
+c92|course|ask|有练习素材吗
+c92|chat|follow|自己找素材太费时间
+c92|chat|share|素材能直接用吗
+c93|course|ask|上课时间固定吗
+c93|chat|follow|我周中要上课
+c93|chat|share|固定时间能调吗
+c94|course|ask|错过直播能问吗
+c94|chat|follow|我老是错过直播
+c94|chat|share|群里问会有人答吗
+c95|course|ask|手机能剪吗
+c95|chat|follow|我只有手机
+c95|chat|share|手机剪能出成品吗
+c96|course|ask|有试听回放吗
+c96|chat|follow|上一场试听我错过了
+c96|chat|share|试听回放能看多久
+c97|course|ask|多久开课
+c97|chat|follow|我想趁假期集中学
+c97|chat|share|下一期什么时候
+c98|course|ask|完全没基础能学吗
+c98|chat|follow|我连剪辑都没碰过
+c98|chat|share|从零讲要多久入门
+c99|course|ask|能组团做号吗
+c99|chat|follow|我想拉两个同学一起
+c99|chat|share|组团有优惠吗
+c100|course|ask|团报便宜吗
+c100|chat|follow|我和室友想一起报
+c100|chat|share|两个人算团报吗
+h25|chat|share|用 AI 写实习总结，主管说像模板
+h25|chat|share|我改了三遍才像自己写的
+h25|chat|share|改完发现 AI 的原稿全是套话
+h26|chat|share|用 AI 帮室友改简历，她说比她写的好
+h26|chat|share|结果室友面试没过，回来怪我
+h26|chat|share|我说简历只是敲门砖，室友不信
+h27|chat|share|用 AI 写论文致谢，导师说像获奖感言
+h27|chat|share|我删了重写，最后只留两句
+h27|chat|share|导师说这两句还行
+h28|chat|share|用 AI 做课堂展示 PPT，同学以为我熬夜做的
+h28|chat|share|其实是 AI 十分钟生成的，我有点心虚
+h28|chat|share|讲的时候被问细节，还是露馅了
+h29|chat|share|用 AI 写社团换届发言，念到一半自己笑了
+h29|chat|share|太像领导讲话，下面也跟着笑
+h29|chat|share|最后脱稿说了两句，反而掌声最多
+h30|chat|share|用 AI 给实习公司写节日祝福
+h30|chat|share|主管说太官方，让我重写
+h30|chat|share|我自己写了两句，主管说这样就行
+h31|chat|share|用 AI 整理秋招时间表
+h31|chat|share|我整理的时间表漏了两家公司
+h31|chat|share|现在每天自己核一遍
+h32|chat|share|用 AI 写课程论文摘要
+h32|chat|share|老师说我写得太顺，不像我
+h32|chat|share|我故意改得磕巴了一点
+h33|chat|share|用 AI 给食堂档口起名
+h33|chat|share|食堂老板说太文艺，学生听不懂
+h33|chat|share|最后给档口用了“阿姨手抖”
+h34|chat|share|用 AI 给毕业论文排版，页脚全乱了
+h34|chat|share|改回原样花了半小时
+h34|chat|share|从此只让 AI 调目录
+h35|chat|share|用 AI 给室友的猫写简介
+h35|chat|share|写完发现比猫的人设还完整
+h35|chat|share|猫现在有粉丝了
+h36|chat|share|把 AI 写的文案发朋友圈
+h36|chat|share|被夸文笔好，我没敢说是 AI
+h36|chat|share|有点心虚又有点爽
+h37|chat|share|第一集漫剧给我妈看
+h37|chat|share|我妈说像小时候看的动画
+h37|chat|share|我妈居然看完了
+h38|chat|share|熬夜做漫剧到三点
+h38|chat|share|第二天上课睡了一节
+h38|chat|share|值不值我也说不好
+h39|chat|share|用 AI 做的号三天没播放
+h39|chat|share|我开始怀疑选题
+h39|chat|share|朋友说新号前十条都这样
+h40|chat|share|接到第一个漫剧单
+h40|chat|share|钱不多但我开心一晚上
+h40|chat|share|甲方还夸我快
+h41|chat|share|甲方让我改第十版
+h41|chat|share|我笑着改，心里在骂
+h41|chat|share|改完确实比第一版好
+h42|chat|share|用 AI 写情书被识破
+h42|chat|share|女朋友说这不像我说话
+h42|chat|share|我只能承认用了工具
+h43|chat|share|室友说我这不算创作
+h43|chat|share|我一时没反驳上来
+h43|chat|share|后来想想，我改的时候也挺费劲
+h44|chat|share|用 AI 整理面试题
+h44|chat|share|第二天面试命中三道题
+h44|chat|share|面试官还夸我准备充分
+h45|chat|share|我在直播间问的问题被念了
+h45|chat|share|被念到的时候我紧张得手心出汗
+h45|chat|share|主播认真答了两分钟，挺意外
+h46|chat|share|听直播听到忘了吃饭
+h46|chat|share|一抬眼天都黑了
+h46|chat|share|我妈以为我在上课
+h47|chat|share|跟主播连麦紧张到结巴
+h47|chat|share|说完自己都笑了
+h47|chat|share|主播还帮我圆场
+h48|chat|share|用 AI 写了个脱口秀段子
+h48|chat|share|宿舍讲完没人笑
+h48|chat|share|可能得我自己改
+h49|chat|share|我妈让我教她用 AI
+h49|chat|share|我妈要写广场舞通知
+h49|chat|share|教了三遍她才记住
+h50|chat|share|用 AI 改论文摘要
+h50|chat|share|查重降了两个点
+h50|chat|share|导师说顺多了
+h51|chat|share|社团让我做海报
+h51|chat|share|我通宵到四点
+h51|chat|share|交上去部长说可以
+h52|chat|share|把 AI 生成的图当头像
+h52|chat|share|有人问我在哪拍的
+h52|chat|share|我含糊过去了
+h53|chat|share|试着用 AI 配旁白
+h53|chat|share|配出来像新闻联播
+h53|chat|share|还是自己念自然点
+h54|chat|share|用 AI 写实习汇报
+h54|chat|share|主管说这周写得细
+h54|chat|share|我偷偷松了口气
+h55|chat|share|帮老师整理课件
+h55|chat|share|老师问我是不是学过
+h55|chat|share|我说就是会用工具
+h56|chat|share|同学问我是不是报班了
+h56|chat|share|我说没有，都是自己摸
+h56|chat|share|其实我也在偷偷看直播
+h57|chat|share|一个人做漫剧最难受的是没人说话
+h57|chat|share|剪到半夜连个搭话的都没有
+h57|chat|share|后来加了个群好点
+h58|chat|share|家里问做漫剧能挣钱吗
+h58|chat|share|我说还在攒作品
+h58|chat|share|他们没再问，但我知道他们担心
+h59|chat|share|用 AI 写自我介绍
+h59|chat|share|面试官看完笑了
+h59|chat|share|说我这段比简历有意思
+h60|chat|share|存了半个月生活费买会员
+h60|chat|share|付款那下有点心疼
+h60|chat|share|希望别白花
+m01|comic|ask|现在做漫剧一般用啥软件啊
+m01|chat|follow|我搜了一圈，名字全记混了
+m01|chat|share|手机能做吗
+m02|comic|ask|有没有从剧本到成片全包的软件
+m02|chat|follow|我试的那个只能出图，还得自己剪
+m02|chat|share|是不是至少得备俩软件
+m03|comic|ask|漫剧的免费额度够练手不
+m03|chat|follow|免费额度用完就得等第二天
+m03|chat|share|新手练手得花多少钱啊
+m04|comic|ask|做漫剧对电脑配置要求高吗
+m04|chat|follow|我这轻薄本跑图有点吃力
+m04|chat|share|显存小是不是就做不了
+m05|comic|ask|用手机能做漫剧吗
+m05|chat|follow|我只有手机，怕出来太糙
+m05|chat|share|手机剪的画质够发吗
+m06|comic|ask|漫剧会员一年多少钱算正常
+m06|chat|follow|我看到的价格从几十到上千都有
+m06|chat|share|便宜会员会不会有限制
+m07|comic|ask|做一集三分钟的漫剧要多少成本
+m07|chat|follow|我算了算，会员加素材好几百
+m07|chat|share|一集回不了本正常吗
+m08|comic|ask|新手做一集漫剧要多久啊
+m08|chat|follow|我第一集做了整整一周
+m08|chat|share|熟练了能压到一天吗
+m09|comic|ask|一个人能做完一集吗
+m09|chat|follow|我一个人做，卡在配音那
+m09|chat|share|是不是得找人分工
+m10|comic|ask|漫剧配音一般咋解决
+m10|chat|follow|自己配太出戏，AI 配又很平
+m10|chat|share|配音软件有免费的吗
+m11|comic|ask|自动生成的字幕准不准
+m11|chat|follow|自动字幕错字不少，得自己改
+m11|chat|share|错一个字会影响推荐吗
+m12|comic|ask|分镜脚本对新手难吗
+m12|chat|follow|我写分镜写到第三页就卡住
+m12|chat|share|有能直接套的模板吗
+m13|comic|ask|AI 出的角色老是变脸咋办
+m13|chat|follow|我的角色第二张图就换脸了
+m13|chat|share|固定角色要先训练模型吗
+m14|comic|ask|漫剧里人物动作是不是都很僵
+m14|chat|follow|我做的角色走路像纸片在飘
+m14|chat|share|动作自然点要加多少工作量
+m15|comic|ask|一集里画风不统一看得出来吗
+m15|chat|follow|我前后两段画风差挺大
+m15|chat|share|统一画风有省事的办法吗
+m16|comic|ask|口型对不上影响大吗
+m16|chat|follow|我做的口型明显慢半拍
+m16|chat|share|口型差一点观众会不会划走
+m17|comic|ask|为啥很多漫剧看着像 PPT
+m17|chat|follow|我做出来也像在翻页
+m17|chat|share|加点镜头运动，能不像 PPT 吗
+m18|comic|ask|一张图一般抽多少次才能用
+m18|chat|follow|我抽十张能用的不到两张
+m18|chat|share|抽卡有啥省额度的技巧
+m19|comic|ask|漫剧剧本自己写还是让 AI 写
+m19|chat|follow|我让 AI 写，台词全一个味
+m19|chat|share|自己写又怕写不出反转
+m20|comic|ask|三分钟一集大概要几个反转
+m20|chat|follow|我写了一集，平得没起伏
+m20|chat|share|反转多了会不会乱
+m21|comic|ask|漫剧开头几秒咋留住人
+m21|chat|follow|我剪的开头三秒自己都不想看
+m21|chat|share|开头直接抛冲突管用吗
+m22|comic|ask|现在做漫剧选啥题材容易起量
+m22|chat|follow|我选的题材发出去没人看
+m22|chat|share|跟风做热门还来得及吗
+m23|comic|ask|男频和女频的漫剧差在哪
+m23|chat|follow|我分不清自己的本子算哪类
+m23|chat|share|女生做男频会不会不搭
+m24|comic|ask|古装和现代哪个更好做
+m24|chat|follow|古装素材贵，现代又太普通
+m24|chat|share|新手先做现代稳妥吗
+m25|comic|ask|漫剧到底咋赚钱啊
+m25|chat|follow|我播放量还行，收益少得可怜
+m25|chat|share|接商单比平台分成靠谱吗
+m26|comic|ask|平台分账是咋算的
+m26|chat|follow|后台收益数字我一直没看懂
+m26|chat|share|多少播放才开始有收益
+m27|comic|ask|帮人做一集漫剧能收多少钱
+m27|chat|follow|有人报三百，有人报三千，差太多
+m27|chat|share|报价低是不是好接单
+m28|comic|ask|漫剧能当副业做吗
+m28|chat|follow|我白天实习，晚上做漫剧
+m28|chat|share|副业一个月能有多少收入啊
+m29|comic|ask|做漫剧需要几个人搭伙
+m29|chat|follow|我一个人做，效率低得离谱
+m29|chat|share|两个人一般咋分工
+m30|comic|ask|漫剧用真人脸会有版权问题吗
+m30|chat|follow|我用网图做过角色，有点心虚
+m30|chat|share|角色图商用是不是必须买授权
+m31|comic|ask|背景音乐能随便用吗
+m31|chat|follow|我随手用了首流行歌，被提示了
+m31|chat|share|免费可商用的音乐去哪找
+m32|comic|ask|漫剧审核一般卡在哪
+m32|chat|follow|我第一集就被打回来了
+m32|chat|share|血腥擦边是不是都不能碰
+m33|comic|ask|零基础学漫剧多久能上手
+m33|chat|follow|我学了半个月才做出第一集
+m33|chat|share|每天练两小时够吗
+m34|comic|ask|汉语言专业做漫剧算对口吗
+m34|chat|follow|我是汉语言的，写台词还算顺
+m34|chat|share|这专业能往漫剧靠吗
+m35|comic|ask|学校有教漫剧的课吗
+m35|chat|follow|我们学校只有影视鉴赏课
+m35|chat|share|想学只能报外面的班吗
+m36|comic|ask|报个漫剧班要多少钱啊
+m36|chat|follow|我问了两家，价格差挺多
+m36|chat|share|几千块的班值不值
+m37|comic|ask|面试做漫剧的岗位会问啥
+m37|chat|follow|我怕被问到作品数据
+m37|chat|share|会现场让做一段吗
+m38|comic|ask|简历上写做过漫剧有用吗
+m38|chat|follow|我把漫剧写进简历，没人问过
+m38|chat|share|是不是得配作品链接
+m39|comic|ask|漫剧相关的实习多不多
+m39|chat|follow|我投了几家，回复很少
+m39|chat|share|这行招实习生看啥
+m40|comic|ask|这行现在缺人吗
+m40|chat|follow|看招聘信息好像一直在招
+m40|chat|share|缺的是能做全流程的人吗
+m41|comic|share|我第一集漫剧终于出片了
+m41|chat|share|三分钟做了整整一周
+m41|chat|share|漫剧发出去才十几个播放
+m42|comic|share|我连发五集，最高两百播放
+m42|chat|share|每集都在改，还是没起色
+m42|chat|share|是不是该换个题材
+m43|comic|share|我第二条直接被限流了
+m43|chat|share|我自查了一遍，没找到原因
+m43|chat|share|限流能申诉回来吗
+m44|comic|share|朋友说我做的像 PPT 动画
+m44|chat|share|我自己看也觉得有点僵
+m44|chat|share|怎么让画面动得自然点
+m45|comic|share|做到第三天我就想放弃了
+m45|chat|share|我卡在配音那一步，特别烦
+m45|chat|share|你们咋熬过瓶颈期的
+m46|comic|share|昨晚剪漫剧剪到凌晨两点
+m46|chat|share|剪完导出还失败了两次
+m46|chat|share|熬夜做出来的质量真的好吗
+m47|comic|share|我妈以为我在看动画片
+m47|chat|share|我说在做视频，她没听懂
+m47|chat|share|家里人支持做漫剧吗
+m48|comic|share|我室友看我做也跟着做
+m48|chat|share|两个人抢一台电脑
+m48|chat|share|一起做会不会互相影响
+m49|comic|share|我用的 AI 配音被听出来了
+m49|chat|share|有观众说我的 AI 配音像机器人
+m49|chat|share|自己配会不会好一点
+m50|comic|share|一集我改了八遍还不满意
+m50|chat|share|漫剧改到最后我自己都麻木了
+m50|chat|share|啥时候该停下来啊
+m51|comic|share|想报班但实在拿不出钱
+m51|chat|share|漫剧班的学费对我不是小数
+m51|chat|share|不报班靠自己摸索行吗
+m52|comic|share|我打算先自己摸索半年
+m52|chat|share|半年时间够不够入门
+m52|chat|share|自学容易走弯路吗
+m53|comic|ask|漫剧和短剧是不是一回事
+m53|chat|follow|我一直以为俩是一个东西
+m53|chat|share|做漫剧需要会拍真人吗
+m54|comic|ask|现在入场做漫剧是不是晚了
+m54|chat|follow|看别人漫剧都做好几季了
+m54|chat|share|现在开始还有机会吗
+n01|comic|ask|提示词到底写在哪儿的
+n01|chat|follow|我打开软件找了半天没找到
+n01|chat|share|提示词要写多长合适
+n02|comic|ask|提示词要用英文写吗
+n02|chat|follow|我用中文写，感觉效果一般
+n02|chat|share|英文不好是不是很吃亏
+n03|comic|ask|分镜到底是啥东西
+n03|chat|follow|我一直以为分镜就是截图
+n03|chat|share|分镜要画多细才够用
+n04|comic|ask|分镜要先画出来吗
+n04|chat|follow|我不会画画，只能写文字
+n04|chat|share|文字分镜能直接用吗
+n05|comic|ask|注册要填手机号吗
+n05|chat|follow|我不太想绑手机号
+n05|chat|share|不绑手机号能用吗
+n06|comic|ask|软件下哪个版本啊
+n06|chat|follow|官网版本太多，我下错了
+n06|chat|share|旧电脑该装哪个版本
+n07|comic|ask|Mac 电脑能装吗
+n07|chat|follow|我用 Mac，怕软件不兼容
+n07|chat|share|Mac 上做漫剧会卡吗
+n08|comic|ask|生成一张图要等多久
+n08|chat|follow|我这台跑一张要等好几分钟
+n08|chat|share|半夜跑图会不会快点
+n09|comic|ask|一张图大概花多少钱
+n09|chat|follow|我算下来一集图费要好几十
+n09|chat|share|有更省图费的做法吗
+n10|comic|ask|免费版能用多久
+n10|chat|follow|免费版每天只能生成几张
+n10|chat|share|免费版能拿来练手吗
+n11|comic|ask|为啥我写的提示词没反应
+n11|chat|follow|我写的提示词，AI 像没看见
+n11|chat|share|提示词有固定格式吗
+n12|comic|ask|生成的图好丑算正常吗
+n12|chat|follow|我出的图比例全是歪的
+n12|chat|share|多写几个词会好点吗
+n13|comic|ask|人物怎么长了六根手指
+n13|chat|follow|我的人物手部全是糊的
+n13|chat|share|手部要单独修吗
+n14|comic|ask|画面里的字全是乱码
+n14|chat|follow|我让 AI 在画面里加字，全是乱码
+n14|chat|share|画面里的字得后期加吗
+n15|comic|ask|怎么让画面动起来
+n15|chat|follow|我只会一张一张换图
+n15|chat|share|有自动做动作的功能吗
+n16|comic|ask|声音是自己配吗
+n16|chat|follow|我普通话一般，怕配出来尴尬
+n16|chat|share|AI 配音会不会更省事
+n17|comic|ask|做完怎么导出啊
+n17|chat|follow|我导出后画质掉了好多
+n17|chat|share|导出格式选哪个清楚
+n18|comic|ask|导出来有水印怎么办
+n18|chat|follow|我的片子角落一直有水印
+n18|chat|share|付费才能去水印吗
+n19|comic|ask|分辨率选多少合适
+n19|chat|follow|我导出 1080P 文件特别大
+n19|chat|share|竖屏发平台要选多少
+n20|comic|ask|三分钟要准备多少张图
+n20|chat|follow|我准备了三十张还是不够
+n20|chat|share|图少了会不会很空
+n21|comic|ask|一集大概几个镜头
+n21|chat|follow|我数了下自己一集四十多个
+n21|chat|share|镜头多了会不会太碎
+n22|comic|ask|转场是什么意思
+n22|chat|follow|我的转场就是直接硬切
+n22|chat|share|转场用多了会乱吗
+n23|comic|ask|字幕是自动加的吗
+n23|chat|follow|自动字幕时间轴老对不上
+n23|chat|share|字幕放哪不容易挡脸
+n24|comic|ask|背景音乐去哪里找
+n24|chat|follow|我不知道哪能下免费音乐
+n24|chat|share|音乐音量一般压多低
+n25|comic|ask|剪辑用哪个软件啊
+n25|chat|follow|我用剪映，感觉功能不够
+n25|chat|share|专业软件学起来难吗
+n26|comic|ask|剪映能做漫剧吗
+n26|chat|follow|我一直用剪映拼图
+n26|chat|share|剪映做出来的能看吗
+n27|comic|ask|手机剪映和电脑版差很多吗
+n27|chat|follow|我用手机剪，手指都点酸了
+n27|chat|share|电脑版是不是快很多
+n28|comic|ask|做出来能直接发抖音吗
+n28|chat|follow|我发之前不知道要改什么
+n28|chat|share|发抖音要不要加话题
+n29|comic|ask|发这个会被限流吗
+n29|chat|follow|我发了三条都没什么流量
+n29|chat|share|新号是不是都没流量
+n30|comic|ask|需要实名认证吗
+n30|chat|follow|我没实名，功能好像受限
+n30|chat|share|实名之后会有变化吗
+n31|comic|ask|我连账号都还没有
+n31|chat|follow|我一直在犹豫要不要注册
+n31|chat|share|新号先发啥内容好
+n32|comic|ask|作品起什么名字好
+n32|chat|follow|我的标题起得特别平淡
+n32|chat|share|标题带数字会更吸引人吗
+n33|comic|ask|封面要自己做吗
+n33|chat|follow|我的封面就是随便截的图
+n33|chat|share|封面用啥工具做
+n34|comic|ask|一集做多长合适
+n34|chat|follow|我做三分钟感觉太赶
+n34|chat|share|一分钟一集能行吗
+n35|comic|ask|一次做几集合适
+n35|chat|follow|我一次做一集就累得不行
+n35|chat|share|攒够几集再发比较好
+n36|comic|ask|必须自己写剧本吗
+n36|chat|follow|我文笔一般，写剧本很慢
+n36|chat|share|用小说改剧本算侵权吗
+n37|comic|ask|一集剧本要写多少字
+n37|chat|follow|我剧本写了两千字还没写完
+n37|chat|share|太长会不会拖节奏
+n38|comic|ask|一句台词写多长
+n38|chat|follow|我的台词一念就超时
+n38|chat|share|台词短点是不是更好配
+n39|comic|ask|能直接拿小说改吗
+n39|chat|follow|我想改一本喜欢的小说
+n39|chat|share|改别人的小说要授权吗
+n40|comic|ask|用 AI 写的小说能商用吗
+n40|chat|follow|我用 AI 写的本子不敢发
+n40|chat|share|AI 写的东西版权归谁
+n41|comic|ask|配音用真人还是 AI
+n41|chat|follow|真人配音太贵了
+n41|chat|share|AI 配音能听出机器味吗
+n42|comic|ask|做完自己都不敢看
+n42|chat|follow|我回看自己的片子全是毛病
+n42|chat|share|是不是新手都这样
+n43|comic|ask|给同学看被笑了一顿
+n43|chat|follow|同学说我的片子像小学生做的
+n43|chat|share|被笑是不是还得多练
+n44|comic|ask|是不是我审美不行
+n44|chat|follow|我选的颜色总是不好看
+n44|chat|share|审美能练出来吗
+n45|comic|ask|要不要先学画画
+n45|chat|follow|我一点绘画基础都没有
+n45|chat|share|不会画画能做漫剧吗
+n46|comic|ask|这行能自学吗
+n46|chat|follow|我看教程自学了一周
+n46|chat|share|自学最容易卡在哪
+n47|comic|ask|教程该看谁的
+n47|chat|follow|网上教程太多，我挑花眼
+n47|chat|share|看免费教程够用吗
+n48|comic|ask|教程太多不知道跟哪个
+n48|chat|follow|我收藏了二十个视频没看完
+n48|chat|share|是不是该跟着一个学完
+n49|comic|ask|学了三天还是不会
+n49|chat|follow|我连软件界面都没摸熟
+n49|chat|share|三天是不是本来就不够
+n50|comic|ask|是不是非得报班
+n50|chat|follow|我怕报了班也学不会
+n50|chat|share|不报班能做出成品吗
+n51|comic|ask|报班真有用吗
+n51|chat|follow|身边没人报过漫剧班
+n51|chat|share|报班最大的作用是啥
+n52|comic|ask|学完能接到活吗
+n52|chat|follow|我担心学完还是接不到
+n52|chat|share|第一单一般从哪来
+n53|comic|ask|一个月能学会吗
+n53|chat|follow|我给自己定了一个月
+n53|chat|share|一个月能到什么程度
+n54|comic|ask|做这个要多少启动资金
+n54|chat|follow|我预算只有几百块
+n54|chat|share|几百块能开始吗
+n55|comic|ask|现在学还来不来得及
+n55|chat|follow|我怕学完风口就过了
+n55|chat|share|这行更新快不快
+n56|comic|ask|我看别人做得好快
+n56|chat|follow|别人一天一集，我一周一集
+n56|chat|share|快是因为有模板吗
+n57|comic|ask|我做一集要整整一周
+n57|chat|follow|我光抽图就花了两天
+n57|chat|share|怎么把速度提上来
+n58|comic|ask|是不是画面好看就够了
+n58|chat|follow|我画面还行，但没人看
+n58|chat|share|剧情是不是更重要
+n59|comic|ask|有没有小白能照抄的流程
+n59|chat|follow|我想要个从零到发布的步骤
+n59|chat|share|流程固定了会不会很死板
+n60|comic|ask|我这样瞎摸索能有结果吗
+n60|chat|follow|我摸索了两个月没什么进展
+n60|chat|share|是不是得找人带

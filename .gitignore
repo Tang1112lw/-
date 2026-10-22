@@ -1,0 +1,9 @@
+.gradle/
+build/
+dist/
+logs/
+data/
+.inspect-profile/
+node_modules/
+frontend/dist/
+*.log
